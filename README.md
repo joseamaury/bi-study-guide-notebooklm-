@@ -243,7 +243,6 @@ Additionally, this project reinforced the importance of structured learning and 
 bi-study-guide-notebooklm/
 │
 ├── README.md
-├── docs/
 ├── assets/
 └── LICENSE
 ```
